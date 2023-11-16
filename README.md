@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pinepixel
-- 🌱 I’m currently trying my hand at Python for fun, though I'm a professional artist by craft.
+- 🌱 I’m currently trying my hand at Python, HTML, CSS, and Java for fun, though I'm a professional artist by craft.
 
 <!---
 pinepixel/pinepixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
