@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @pinepixel
-- 🌱 I’m currently trying my hand at Python, HTML, CSS, and Java for fun, though I'm a professional artist by craft.
+- 👋 Hi, I’m @pinepixel.
+- 🌌 Computer Science student.
+- 🌱 Currently trying my hand at C++ and Java.
+- 🧙‍♂️ Professional artist by craft.
 
 <!---
 pinepixel/pinepixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
