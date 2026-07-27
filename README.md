@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @pinepixel.
-- 🌌 Computer Science student.
-- 🌱 Currently trying my hand at C++ and Java.
-- 🧙‍♂️ Professional artist by craft (NO AI!)
+- 🌱 Currently learning C++.
+- 💻 If we bankrupt the gray athleisure industry, I'm certain we can make computers cool again.
 
 <!---
 pinepixel/pinepixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
